@@ -74,6 +74,3 @@ document.body.style.backgroundColor = "lightblue";
 ## 🎯 Next Steps
 ✔️ Experiment by changing the text and colors.
 ✔️ Learn about **variables, data types, and functions** in the next section!
-
-Happy Coding! 🚀
-

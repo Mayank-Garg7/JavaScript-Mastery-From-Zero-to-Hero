@@ -81,8 +81,3 @@ country = "USA"; // ❌ Error: Assignment to constant variable.
 ✔️ Use `const` when you don't want to reassign values.
 ✔️ Use meaningful variable names for better code readability.
 
----
-
-✅ Now you know how to declare and use variables in JavaScript! 🚀
-
-Next: [Data Types & Type Conversion](./data-types.md) ➡️

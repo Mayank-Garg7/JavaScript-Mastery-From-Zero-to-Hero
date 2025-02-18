@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // MATH 
+        // console.log(Math.min(10, 5, 8, 2));
+        // console.log(Math.max(10, 5, 8, 2));
+        // console.log(Math.pow(2, 3));
+        // console.log(Math.floor(7.2));
+
+        // Objects
+        // let um = 12.34567;
+        // console.log(um.toFixed(2));
+
+        // var sum = 100;
+        // console.log(sum.toString());
+
+        // let num1 = new Number(50);
+        // console.log(num1.valueOf());
+
+        // let num = 12345;
+        // console.log(num.toExponential(1));
+
+        // let sum = 1234567.89;
+        // console.log(sum.toLocaleString("en-IN"));
+        // console.log(sum.toLocaleString("en-US"));
+        // console.log(sum.toLocaleString("de-DE"));
+        // console.log(sum.toLocaleString("ja-JP"));
+
+        // Boolean
+        // let bool1 = new Boolean(true);
+        // console.log(bool1.valueOf());
+
+        // let bool2 = true;
+        // console.log(bool2.toString());
+
+
+        // String
+        // let str = "Hello";
+        // console.log(str.charAt(1));
+
+        // let str1 = "Hello";
+        // let str2 = " World";
+        // console.log(str1.concat(str2));
+
+        // let str3 = "I love JavaScript";
+        // console.log(str.replace("JavaScript", "Python"));
+
+        // let str4 = new String("Hello");
+        // console.log(str.valueOf()); 
+    </script>
+</body>
+
+</html>

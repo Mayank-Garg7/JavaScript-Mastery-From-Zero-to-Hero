@@ -24,3 +24,5 @@ console.log(product(a+b))
 // ad function // nothing changed because already stored entire function in memory
 // b = 20    // b = 20
 
+// Interview Questions
+// javaScript first create an execution context. It perform memory creation phase where memory is allocated to the variables and functions, followed by code exection phase where code run line by line.

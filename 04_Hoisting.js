@@ -1,10 +1,10 @@
-// hoisting is the part of memroy creation in js before executing the code js create a structure for memory like time of memory create functions are fully hoisted and fully stored var is assigned as undefined and let and const are also hoisted but they are still in tdz(temporal dead zone) so if you will access the value of them they will give you:- 
+// Hoisting is JavaScript's behavior during the memory creation phase (before code execution), where declarations are processed and added to memory. Different kinds of declarations are hoisted differently.like at the time of memory create Function declarations are fully hoisted, meaning their complete function definition is stored in memory before execution begins. var is assigned as undefined and let and const are also hoisted but They are not initialized during the memory creation phase. From the beginning of their scope until their declaration is reached, they stay in the Temporal Dead Zone (TDZ). so if you will access the value of them they will give you:- 
 // var = undefined
 // let and const = ReferenceError
 // function = result // because functions are fully hoisted
 
-// example: -
 
+// example: -
 
 console.log(a)
 // console.log(b)
